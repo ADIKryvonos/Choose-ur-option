@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Choose-ur-option/static/css/main.7acaea2f.css",
+    "main.js": "/Choose-ur-option/static/js/main.07d3183d.js",
+    "index.html": "/Choose-ur-option/index.html",
+    "main.7acaea2f.css.map": "/Choose-ur-option/static/css/main.7acaea2f.css.map",
+    "main.07d3183d.js.map": "/Choose-ur-option/static/js/main.07d3183d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.07d3183d.js"
+  ]
+}
